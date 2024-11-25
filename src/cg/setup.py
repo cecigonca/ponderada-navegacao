@@ -23,6 +23,7 @@ setup(
             'test = cg.teste:main',
             'maze = cg.main:game',
             'edit = cg.main:editor',
+            'cli = cg.cli:main'
         ],
     },
 )
