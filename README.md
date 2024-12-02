@@ -33,13 +33,13 @@ Navegação com ROS: implementar dois métodos distintos de navegação; a naveg
 - Colcon (ferramenta para compilar pacotes ROS2)
 
 ### Passo a Passo para Execução
-1. Clonar repositório
+1. **Clonar repositório**
 
 ```bash
 git clone https://github.com/josevalencar/ros2-maze.git
 ```
 
-2. Executar o 'Maze'
+2. **Executar o 'Maze'**
 
 ```bash
 colcon build
@@ -51,7 +51,7 @@ source install/setup.bash
 ros2 run cg maze
 ```
 
-3. Rodar Navegações 
+3. **Rodar Navegações**
 - Abra outro terminal 
 ```bash
 colcon build
@@ -63,3 +63,9 @@ source install/setup.bash
 ros2 run cg cli
 ```
 - Escolha 'Navegação Reativa' ou 'Navegação Mapeada'
+
+### Vídeo do Funcionamento
+#### Navegação Reativa
+![Navegação Reativa](videos\nav_reativa.gif)
+#### Navegação Mapeada
+![Navegação Mapeada](videos\nav_mapeada.gif)
