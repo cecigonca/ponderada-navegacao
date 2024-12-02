@@ -66,6 +66,6 @@ ros2 run cg cli
 
 ### Vídeo do Funcionamento
 #### Navegação Reativa
-![Navegação Reativa](videos\nav_reativa.gif)
+![Navegação Reativa](videos/nav_reativa.gif)
 #### Navegação Mapeada
-![Navegação Mapeada](videos\nav_mapeada.gif)
+![Navegação Mapeada](videos/nav_mapeada.gif)
