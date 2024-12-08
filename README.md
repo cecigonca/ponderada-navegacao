@@ -36,7 +36,7 @@ Navegação com ROS: implementar dois métodos distintos de navegação; a naveg
 1. **Clonar repositório**
 
 ```bash
-git clone https://github.com/josevalencar/ros2-maze.git
+git clone https://github.com/cecigonca/ponderada-navegacao.git
 ```
 
 2. **Executar o 'Maze'**
